@@ -53,5 +53,4 @@ public class CA2MultiplicationtTable {
             // Scanner will be automatically closed here
         }
     }
-    
 }
