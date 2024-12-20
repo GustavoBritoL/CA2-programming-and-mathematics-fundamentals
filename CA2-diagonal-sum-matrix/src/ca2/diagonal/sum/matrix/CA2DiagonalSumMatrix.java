@@ -2,6 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
+// Link GitHub Bellow:
+//https://github.com/GustavoBritoL/CA2-programming-and-mathematics-fundamentals
+
 package ca2.diagonal.sum.matrix;
 import java.util.Scanner;
 
